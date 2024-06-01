@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DinulaSineth
+- 👀 I’m interested in Appdev, Content Creation, Video Editing, Universe
+- 🌱 I’m currently learning Flutter And Python 
+- 💞️ I’m looking to collaborate on Video editing 
+- 📫 How to reach me @Facebook
+- ⚡ Fun fact:There are more stars in the universe than grains of sand on Earth. Let's create something stellar together!
